@@ -2,7 +2,8 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <!-- Kolom Kiri: Tools & Informasi Umum -->
+    <td valign="top" width="50%" style="text-align: justify;">
       
 **Tentang Saya**  
 What's up, guys! Saat ini saya sedang menempuh pendidikan di **Universitas Muhammadiyah Yogyakarta** jurusan **Teknologi Informasi**. Passion utama saya? Banget sama **frontend** dan **UI/UX**. Di dunia coding, saya senang mengeksplorasi berbagai framework dan teknologi untuk membuat aplikasi yang keren dan responsif.
@@ -20,7 +21,8 @@ Saya memiliki jiwa seni yang sudah melekat sejak kecil, tidak hanya soal gambar 
 - **Android Studio** – Untuk pembuatan aplikasi mobile.
 
     </td>
-    <td valign="top" width="50%">
+    <!-- Kolom Kanan: Frameworks, Proyek & Media Sosial -->
+    <td valign="top" width="50%" style="text-align: justify;">
       
 **Frameworks yang Saya Pakai**  
 - **Laravel** – Framework PHP untuk backend yang powerful.  
