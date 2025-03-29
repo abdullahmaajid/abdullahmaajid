@@ -16,6 +16,8 @@ Kreativitas dan seni selalu menjadi bahan bakar setiap proyek yang saya kerjakan
 - **React** – Library JavaScript untuk membangun antarmuka interaktif.
 - **Node.js** – Runtime JavaScript untuk pengembangan server-side.
 - **Express.js** – Framework Node.js dengan arsitektur **MVCR** (Model, View, Controller, Route).
+- **Kotlin** – Bahasa pemrograman modern untuk pengembangan aplikasi Android.
+- **Flutter** – Framework UI dari Google untuk membuat aplikasi mobile yang cross-platform.
 
 ## Tools
 - **Visual Studio Code** – Editor utama untuk coding.
